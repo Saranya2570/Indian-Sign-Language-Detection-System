@@ -71,19 +71,23 @@ pip install -r requirements.txt
 
 Home Screen
 
-<img width="850" height="575" alt="Screenshot 2026-07-30 180549" src="https://github.com/user-attachments/assets/db78ec14-50c8-4693-b3bc-9d5d6b6effbe" />
+<img width="426" height="457" alt="Screenshot 2026-07-30 181308" src="https://github.com/user-attachments/assets/eaeebd8d-a380-4209-a273-4eb339a2be9e" />
 
-<img width="866" height="617" alt="Screenshot 2026-07-30 180558" src="https://github.com/user-attachments/assets/cf174c72-ce49-46c6-ad6b-0ec37b0a33d4" />
+
+<img width="427" height="467" alt="Screenshot 2026-07-30 181330" src="https://github.com/user-attachments/assets/e708bb57-3363-4b87-a378-21695cbbe408" />
+
 
 
  Gesture Detection
 
-<img width="1920" height="1200" alt="Screenshot 2026-03-26 092219" src="https://github.com/user-attachments/assets/eea10a30-04f3-44b9-83d9-be27f7929dde" />
+<img width="1401" height="677" alt="Screenshot 2026-07-30 181532" src="https://github.com/user-attachments/assets/332e8cfa-6359-4398-97c2-de6619110eae" />
+
 
 
 Prediction Result
 
-<img width="1436" height="805" alt="Screenshot 2026-07-30 180624" src="https://github.com/user-attachments/assets/136f17d2-d660-48e8-9f2a-238dca48b812" />
+<img width="1382" height="761" alt="Screenshot 2026-07-30 181418" src="https://github.com/user-attachments/assets/04f39498-e5e8-4ddf-b983-b797b3c98076" />
+
 
 
 🎯 Results
